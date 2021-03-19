@@ -1,7 +1,7 @@
 Brlapi==0.6.1
 Django==2.0.2
 Flask==0.12.2
-Jinja2==2.10
+Jinja2==2.11.3
 Mako==0.9.1
 MarkupSafe==1.0
 Werkzeug==0.14.1
